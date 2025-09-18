@@ -33,5 +33,3 @@ python src/sentiment_demo.py
 python src/ocr_demo.py
 ```
 
----
-✍️ *Created as part of a technical article on LLM + Deep Learning for airlines.*
