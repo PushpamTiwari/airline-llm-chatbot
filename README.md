@@ -30,6 +30,6 @@ pip install -r requirements.txt
 python src/sentiment_demo.py
 
 # Run OCR demo
-python src/ocr_demo.py
+python src/ocr_demo.py src/images/boarding_pass.png
 ```
 
